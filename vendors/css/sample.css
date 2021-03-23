@@ -1,0 +1,61 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  text-align: center;
+}
+.main-header {
+  padding-bottom: 15%;
+  width: 100%;
+  background-size: cover;
+  background-image: url("../images/header.jpg");
+  background-attachment: fixed;
+}
+/* From here */
+header {
+  background-color: black;
+  height: 50px;
+}
+header ul {
+}
+header ul a {
+  text-decoration: none;
+  color: white;
+}
+header li {
+  margin-right: 40px;
+}
+header ul:after {
+}
+/* This is the implementation of the header part */
+.main-header img {
+/* Implementation of the main image (image of the white "Achieve" character)*/
+}
+.about {
+
+}
+.left{
+  float: left;
+}
+.right{
+  float: right;
+}
+.function{
+  background-color: grey;
+}
+.function-image{
+  display: inline-block;
+  margin: 50px;
+  height: 1px;
+  width: 150px;
+}
+footer{
+  background-color: #17223b;
+  color: white;
+  padding: 2px;
+  height: 80px;
+}
+}
+}
+/* I
