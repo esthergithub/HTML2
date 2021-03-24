@@ -45,15 +45,16 @@ header ul:after {
   background-color: grey;
 }
 .function-image{
-  display: inline-block;
-  margin: 50px;
-  height: 1px;
-  width: 150px;
+  display: inline-table;
+  margin: 1px;
+  height: 10px;
+  width: 200px;
+  padding: 1px;
 }
 footer{
   background-color: #17223b;
   color: white;
-  padding: 2px;
+  padding: 5px;
   height: 80px;
 }
 }
